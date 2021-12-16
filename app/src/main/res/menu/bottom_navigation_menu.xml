@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_exercise"
+        android:enabled="true"
+        android:icon="@drawable/ic_page_exercise"
+        android:title="exercise" />
+    <item
+        android:id="@+id/tab_program"
+        android:enabled="true"
+        android:icon="@drawable/ic_page_program"
+        android:title="program"/>
+    <item
+        android:id="@+id/tab_point"
+        android:enabled="true"
+        android:icon="@drawable/ic_page_point"
+        android:title="point"/>
+    <item
+        android:id="@+id/tab_myPage"
+        android:enabled="true"
+        android:icon="@drawable/ic_page_point"
+        android:title="mypage"/>
+
+</menu>
